@@ -25,7 +25,8 @@ public class practica_1 {
 			aux = array[longitud - i];
 			array[longitud - i - 1] = array[i];
 			array[i] = aux;
-		}Fin modificación
+		}
+		Fin modificación
 		 */
 		for (int i = 0; i < longitud / 2; i++) {	
 			aux = array[longitud - (i+1)];
