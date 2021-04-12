@@ -1,4 +1,4 @@
-package Windowbuilder;
+package EDI_2;
 
 import java.awt.EventQueue;
 
