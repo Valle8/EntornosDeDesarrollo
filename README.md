@@ -21,4 +21,4 @@ Preparar eclipse para desarrollar software con PHP.
 </br>
 Este es el proceso para la [Instalacion PHP](https://github.com/Valle8/EntornosDeDesarrollo/blob/master/Entornos/src/EDI_2/Instalacion%20de%20PHP.pdf)
 </br>
- ![alt text](https://github.com/Valle8/EntornosDeDesarrollo/blob/master/Entornos/src/EDI_2/php.png)
+ ![image](https://github.com/Valle8/EntornosDeDesarrollo/blob/master/Entornos/src/EDI_2/php.png)
