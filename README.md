@@ -8,6 +8,8 @@ de los números 1 y 2 introducidos en las cajas de texto correspondientes. Para 
 como convertir de texto a integer y viceversa para poder mostrar el resultado.
 </br>
  Este es el [Sumador](https://github.com/Valle8/EntornosDeDesarrollo/blob/master/Entornos/src/EDI_2/Sumador.java) resultado.
+ </br>
+ ![alt text](https://github.com/Valle8/EntornosDeDesarrollo/blob/master/sumador.png)
 # Ejercicio 2
 Crear el siguiente diagrama E/R en el plugin E-R Master para eclipse y obtener el código exportado a mysql.
 </br>
